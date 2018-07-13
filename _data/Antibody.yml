@@ -1,0 +1,166 @@
+antibodies:
+- name: S100 (rabbit)
+  vendor: Agilent Dako
+  catalogNumber: FAB3567F
+  webPage: https://www.agilent.com/en-us/products/immunohistochemistry/antibodies-controls/primary-antibodies/s100-(dako-omnis)
+  lotNumber: 
+  rank: "?"
+  experiments:
+  - date: 20180710
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 400x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+- name: MCM6 (goat)
+  vendor: Santa Cruz
+  catalogNumber: sc-9843
+  webPage: https://www.scbt.com/scbt/product/mcm6-antibody-c-20
+  lotNumber: 
+  rank: "?"
+  experiments:
+  - date: 20180710
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 100x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+- name: p57 (mouse)
+  vendor: Santa Cruz
+  catalogNumber: sc-56341
+  webPage: https://www.scbt.com/scbt/product/p57-antibody-kp39
+  lotNumber: 
+  rank: "?"
+  experiments:
+  - date: 20180710
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 10x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+
+- name: CD31/PECAM‑1-Fluorescein
+  vendor: R&D Systems
+  catalogNumber: FAB3567F
+  webPage: https://www.rndsystems.com/products/human-cd31-pecam-1-fluorescein-conjugated-antibody-9g11_fab3567f
+  lotNumber: LXV0314101
+  rank: "?"
+  experiments:
+  - date: 20180711
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 200x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+- name: TrkA-Phycoerythrin575
+  vendor: abcam
+  catalogNumber: ab209443
+  webPage: https://www.abcam.com/trka-antibody-ep1058y-phycoerythrin-ab209443.html
+  lotNumber: GR277348-1
+  rank: "?"
+  experiments:
+  - date: 20180711
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 200x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+- name: CD271-Alexa647
+  vendor: BD Pharmingen
+  catalogNumber: 560326
+  webPage: http://www.bdbiosciences.com/us/reagents/research/antibodies-buffers/immunology-reagents/anti-human-antibodies/cell-surface-antigens/alexa-fluor-647-mouse-anti-human-cd271-c40-1457/p/560326
+  lotNumber: 7125843
+  rank: "?"
+  experiments:
+  - date: 20180711
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 10x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+
+
+- name: Lamin A/C (4C11)-Alexa488
+  vendor: Cell Signaling
+  catalogNumber: 8617S
+  webPage: https://www.cellsignal.com/products/antibody-conjugates/lamin-a-c-4c11-mouse-mab-alexa-fluor-488-conjugate/8617
+  lotNumber: 2
+  rank: "?"
+  experiments:
+  - date: 20180712
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 200x
+    exposureTime: 0.5s
+    imagesLinks:
+    - url1
+- name: Histone H3 (D1H2)-PE
+  vendor: Cell Signaling
+  catalogNumber: 82241S
+  webPage: https://www.cellsignal.com/products/antibody-conjugates/histone-h3-d1h2-xp-rabbit-mab-pe-conjugate/82241
+  lotNumber: 1
+  rank: "?"
+  experiments:
+  - date: 20180712
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 1000x
+    exposureTime: '?'
+    imagesLinks:
+    - url1
+- name: p27 KIP 1-Alexa647
+  vendor: abcam
+  catalogNumber: ab194234
+  webPage: https://www.abcam.com/p27-kip-1-antibody-y236-alexa-fluor-647-ab194234.html
+  lotNumber: GR200274-1
+  rank: "?"
+  experiments:
+  - date: 20180712
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 200x
+    exposureTime: '?'
+    imagesLinks:
+    - url1

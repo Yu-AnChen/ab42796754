@@ -1,0 +1,28 @@
+---
+
+---
+<ul>
+{% for ab in site.data.Antibody.antibodies %}
+    <li>
+        <a href="{{ ab.webPage }}">
+            {{ ab.name }} 
+        </a>
+        {% for exp in ab.experiments %}
+        <ol>
+                
+                <li>
+                    {{ exp.date }}: {{ exp.personnel }}
+                    <div>
+                        Dilution {{ exp.dilution }}
+                    </div>
+                    <div>
+                        Exposure time {{ exp.exposureTime }}
+                    </div>
+                </li>
+                
+
+        </ol>
+        {% endfor %}
+    </li>
+{% endfor %}
+</ul>
