@@ -164,3 +164,58 @@ antibodies:
     exposureTime: '?'
     imagesLinks:
     - url1
+
+- name: BRD7-FITC
+  vendor: Aviva Sysbio
+  catalogNumber: APR39018_P050-FITC
+  webPage: https://www.avivasysbio.com/en/brd7-antibody-fitc-arp34306-p050-fitc.html
+  lotNumber: 
+  rank: "?"
+  experiments:
+  - date: 20180713
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 100x
+    exposureTime: 
+    imagesLinks:
+    - url1
+- name: CD14-PE
+  vendor: eBioscience
+  catalogNumber: 12-0149-41
+  webPage: https://www.thermofisher.com/antibody/product/CD14-Antibody-clone-61D3-Monoclonal/12-0149-41
+  lotNumber: 4312922
+  rank: "?"
+  experiments:
+  - date: 20180713
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 100x
+    exposureTime: '?'
+    imagesLinks:
+    - url1
+- name: CD31/PECAM-1-APC
+  vendor: R&D Systems
+  catalogNumber: FAB3567A
+  webPage: https://www.rndsystems.com/products/human-cd31-pecam-1-apc-conjugated-antibody-9g11_fab3567a
+  lotNumber: LYD0414101
+  rank: "?"
+  experiments:
+  - date: 20180713
+    personnel: Yu-An Chen
+    samples:
+    - CSS08A
+    - CSS08B
+    - CSS08C
+    - TMA1207
+    dilution: 100x
+    exposureTime: '?'
+    imagesLinks:
+    - url1
